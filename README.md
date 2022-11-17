@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Director of Engineering @CognitiveScale (India)<br>
+🔭 Director of Engineering @[CognitiveScale (India)](https://github.com/CognitiveScale)<br>
 🏆 Engineering leader, people-first management style, hire and retain top talent for growth software companies<br>
 ⛳ Write no code without technical design docs (Usecase, sequence and architecture diagrams)
 🧰 Comfortable managing teams of Full stack, mobile and machine learning engineers<br>
