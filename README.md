@@ -1,10 +1,13 @@
 # 💫 About Me:
 🔭 Director of Engineering @[CognitiveScale (India)](https://github.com/CognitiveScale)<br>
 🏆 Engineering leader, people-first management style, hire and retain top talent for growth software companies<br>
-⛳ Write no code without technical design docs (Usecase, sequence and architecture diagrams)
-🧰 Comfortable managing teams of Full stack, mobile and machine learning engineers<br>
+⛳ Write no code without technical design docs (Usecase, sequence and architecture diagrams)<br>
+🧰 Comfortable managing teams of Full stack, mobile and machine learning engineers for product companies<br>
 💬 Reach out to me for engineering team establishment in venture funded and early stage companies <br>
+☁️  Have built & deployed software products using all major clouds(AWS, Azure and Google Cloud Platform) <br>
 🌱 Comfortable with Python, Node.js, Golang and JVM toolchains<br>
+
+# Consulting
 ⚡ Open for consulting gigs in the software space. Reach out via [email](mailto:prajna.kandarpa@gmail.com) 
   * 🔐 Setup security management vendors and automate detection and remediation strategies across organisations<br>	 
   * 🏭 Establish Snyk, Veracode and Twistlock integrations <br>        
